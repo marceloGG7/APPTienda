@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppTienda": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PROD": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DBTienda;Integrated Security=True;"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll

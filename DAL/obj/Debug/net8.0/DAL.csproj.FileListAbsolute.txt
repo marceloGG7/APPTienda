@@ -1,0 +1,12 @@
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\marce\OneDrive - Universidad Autonoma de Nuevo León\ESCUELA\6\PROGRAMACION DE APLICACIONES LOCALES\AppTienda\DAL\obj\Debug\net8.0\ref\DAL.dll
